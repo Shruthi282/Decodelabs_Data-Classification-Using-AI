@@ -1,4 +1,5 @@
-Data Classification Using AI 📊🤖
+Data Classification Using AI 
+
 Project Overview
 
 This project is a Data Classification System developed using Artificial Intelligence techniques. The system analyzes input data and automatically classifies it into predefined categories based on learned patterns. It helps organize and manage large amounts of data efficiently.
